@@ -10,7 +10,7 @@ application up and running.
 
 
 <h1 align ="center">
-            # samurai-shodown
+            Samurai Shodown
 
 ![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
 </h1>
@@ -18,53 +18,28 @@ application up and running.
 
 
 
+# Synopsis
+
+Here to you a samurai shodown like arcade game
+
+
+
+
 # Process by following ⚙️
 
-	  `bundle install --without production`
-- Then `rake db:reset`
-- Then `rails db:create`
-- Then `rails db:migrate`
-- Check the migration's state : `rails db:migrate:status`
-- Forward `rails db:seed`
-- You are able to run `rails server`
-- Open your favourite Web browser, get to: `localhost:3000`
 
-
-
-Download the folder & open the exo_events file in Web browser (I suggest Brave or Google Chrome).
-Here we go, feel free to browse, world is all yours.
+`Download` the folder & open the index.html file in Web browser (I suggest Brave or Google Chrome).
+Here we go, feel free to fight, have fun.
 
 <hr>
 
 Things you may want to cover 📝
 
-* Ruby version
- Ruby 2.7.4p191 ©
 
-* System dependencies
- Using Bundler and brew:
- `install bundle && brew bundle`
-
-* Configuration
- Rails 5.2.6.2 ©
-
-
-* Database creation
- `rails db:create`
-
-* Database initialization
- `rails db:create db:migrate db:seed`
-
-* How to run the test suite
- `rails db:seed`
- 
 * How to access the app
  
  https://eventbrite-devise.herokuapp.com/ 
 
-
-* Remote: Verifying deployed
-  To https://git.heroku.com/eventbrite-devise.git
 
 
 
