@@ -6,7 +6,7 @@ application up and running.
 
 
 
-<a href="https://www.thehackingproject.org/"><img src="https://i.imgur.com/vQ9euBQ.png"/></a>
+<a href="https://www.thehackingproject.org/"><img src="https://i.imgur.com/vQ9euBQ.png" width="20%" /></a>
 
 
 <h1 align ="center">
