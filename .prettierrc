@@ -1,0 +1,15 @@
+// Game Timers and Game Over //
+
+{
+ "singleQuote": true,
+  "semi": false,
+  "trailingComma": "none",
+  "overrides": [
+    {
+      "files": "*.html",
+      "options": {
+        "parser": "html"
+      }
+    }
+  ]
+}
