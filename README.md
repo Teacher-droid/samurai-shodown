@@ -10,7 +10,7 @@ application up and running.
 
 
 <h1 align ="center">
-            Samurai Shodown
+            Samurai Shodown<br>
 
 ![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
 </h1>
