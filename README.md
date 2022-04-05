@@ -12,7 +12,7 @@ application up and running.
 <h1 align ="center">
             Présentation du Projet “Le Brignolais Sportif"
 
-![0X-zJJ4W_400x400](https://user-images.githubusercontent.com/97508821/157406994-75ccff48-8207-496b-9541-00a15b3c6e57.jpg)
+![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
 </h1>
 <br>
 
@@ -65,6 +65,32 @@ Things you may want to cover 📝
 
 * Remote: Verifying deployed
   To https://git.heroku.com/eventbrite-devise.git
+
+
+
+
+# Features 🧪
+
+
+
+* Player one Input *:
+
+Toward left  **A**
+Jump   **W**
+Toward right     **A**
+Hit  **⎵**
+
+*Player two Input* :  
+
+Toward left  **←**
+Jump   **↑**
+Toward right     **→**
+Hit **↓**
+
+
+
+<hr>
+<hr>
 
 
 ## Tech ⚙️
