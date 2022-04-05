@@ -3,14 +3,14 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
-# samurai-shodown
 
 
-<a href="https://www.thehackingproject.org/"><img src="https://i0.wp.com/chromebooklive.com/wp-content/uploads/2018/11/the_hacking_project_logo.png?resize=620%2C171&ssl=1" width="20%" alt="thp_tlogo"/></a>
 
-# LeBrignolaisSportif
+<a href="https://www.thehackingproject.org/"><img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Ffs-prod-cdn.nintendo-europe.com%2Fmedia%2Fimages%2F10_share_images%2Fgames_15%2Fnintendo_switch_download_software_1%2FH2x1_NSwitchDS_AcaNeogeoSamuraiShodown_image1600w.jpg&imgrefurl=https%3A%2F%2Fwww.nintendo.fr%2FJeux%2FJeux-a-telecharger-sur-Nintendo-Switch%2FACA-NEOGEO-SAMURAI-SHODOWN-1245141.html&tbnid=GTGRHWi_GRb4hM&vet=10CAwQMyhtahcKEwig1dyV1_32AhUAAAAAHQAAAAAQCQ..i&docid=XMidCiZUortELM&w=1600&h=800&q=samurai%20shodown&client=firefox-b-d&ved=0CAwQMyhtahcKEwig1dyV1_32AhUAAAAAHQAAAAAQCQ" width="20%" alt="thp_tlogo"/></a>
+
+
 <h1 align ="center">
-            Présentation du Projet “Le Brignolais Sportif"
+            # samurai-shodown
 
 ![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
 </h1>
