@@ -11,7 +11,7 @@ application up and running.
 
 <h1 align ="center">
     Samurai Shodown<br>
-    ![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
+![0X-zJJ4W_400x400](https://user-images.githubusercontent.com/97508821/157406994-75ccff48-8207-496b-9541-00a15b3c6e57.jpg)
 </h1>
 <br>
 
