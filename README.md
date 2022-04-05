@@ -6,14 +6,15 @@ application up and running.
 
 
 
-<a href="https://www.thehackingproject.org/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXTuSKZgKz-o0WfNj5mh2rsE4_HgWBLp7cQ&usqp=CAU" width="20%" /></a>
+<a href="https://teacher-droid.github.io/samurai-shodown/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGXTuSKZgKz-o0WfNj5mh2rsE4_HgWBLp7cQ&usqp=CAU" width="20%" /></a>
 
 
 <h1 align ="center">
-            Samurai Shodown<br>
-
-![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
+    Samurai Shodown<br>
 </h1>
+<p align ="center">
+![0X-zJJ4W_400x400](https://i.imgur.com/F56meSF.png)
+</p>
 <br>
 
 
