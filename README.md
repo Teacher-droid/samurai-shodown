@@ -47,14 +47,14 @@ Things you may want to cover 📝
 
 
 
-* **Player one Input* :
+* **Player one Input :
 
 Toward left  **A**
 Jump   **W**
 Toward right     **A**
 Hit  **⎵**
 
-* **Player two Input* :  
+* **Player two Input :  
 
 Toward left  **←**
 Jump   **↑**
