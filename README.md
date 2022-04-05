@@ -37,7 +37,7 @@ Things you may want to cover 📝
 
 * How to access the app
  
- https://eventbrite-devise.herokuapp.com/ 
+ https://teacher-droid.github.io/samurai-shodown/
 
 
 
