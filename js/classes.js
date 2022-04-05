@@ -1,4 +1,4 @@
-// Death animation //
+//  Death animation  //
 
 class Sprite {
   constructor({
